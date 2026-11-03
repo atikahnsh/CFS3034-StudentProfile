@@ -17,7 +17,7 @@ public class StudentProfile {
         // To show an output
         System.out.println("Name: Nur Atikah Nasuha");
         System.out.println("Student ID: S87543");
-        System.out.println("Programme name: Bachelor of Computer Science");
+        System.out.println("Programme: Bachelor of Computer Science");
     }
     
 }
